@@ -1,3 +1,4 @@
+%完整代码将在论文接收后上传
 function [c2x,c2y] = ECC(key)
 a=4;
 b=20;
